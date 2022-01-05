@@ -27,8 +27,11 @@ function generateMarkdown(data) {
   Here is how to install this application: 
   ${data.installation}
   ## Usage
+  ${data.usage}
   ## License
+  ${data.license}
   ## Contributing
+  ${data.contributor}
   ## Tests
   ## Questions
   Any questions and feedbacks are welcomed for the approval of this application. Don't hesitate to contact me using the following:
